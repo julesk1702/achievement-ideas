@@ -27,6 +27,7 @@
 - **What the Duck!?**: Find the mascot hidden somewhere in the station.
 - **Didn't see that coming, did you?**: React heavily to a jumpscare.
 - **Who broke the camera?**: Find the broken camera in the control room.
+- **Was worth a shot...**: Attempt to use the cryopod as your way out.
 
 # Achievements that need to be added
 
