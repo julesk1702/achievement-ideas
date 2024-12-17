@@ -53,3 +53,5 @@
 - **The Last Survivor**: Complete the game without dying once.
 - **Finally, some light!**: Restore power to the station.
 - **What are those strange noises?**: Find and listen to your first audio log.
+- **Inner Peace**: Fully reduce your fear using the breathing station.
+- **I can do this in my cryopod!**: Complete the puzzle within 30 seconds.
